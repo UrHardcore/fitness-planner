@@ -121,8 +121,8 @@ label{display:block;margin:0 1 1px}
     top:-110px;                         /* aparece por encima del borde */
     left:50%;
     transform:translateX(-50%);
-    width:246px;
-    height:120px;
+    width:285px;
+    height:110px;
     background-image:url('https://i.ibb.co/YF0Zy5Lv/processed-image-3-1-1.png');
     background-repeat:no-repeat;
     background-position:center;
@@ -156,3 +156,4 @@ label{display:block;margin:0 1 1px}
   .login-card{width:94vw;border-radius:14px}
   .btn{font-size:.95rem}
 }
+
